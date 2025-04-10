@@ -68,5 +68,5 @@ Sugestões, melhorias e exemplos reais de uso são sempre bem-vindos! Crie um Pu
 
 ---
 
-Feito com 💡 criatividade e intenção por [Seu Nome ou Empresa].
+Feito com 💡 criatividade e intenção por [Billy Garcia - AbstraktAgencia].
 
