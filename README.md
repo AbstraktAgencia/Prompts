@@ -1,4 +1,4 @@
-# Prompt de Análise Criativa 
+# Prompt de Análise Criativa — Repositório Modelo
 
 Este repositório tem como objetivo disponibilizar um **prompt estruturado** e reutilizável para auxiliar profissionais de marketing, criadores de conteúdo e estrategistas na **criação de conteúdos digitais** com base em conceitos criativos, interativos e iterativos.
 
@@ -11,6 +11,14 @@ O prompt é inspirado no livro *"Roube como um Artista"* de Austin Kleon e foi d
 - Estilos de escrita variados
 - Técnicas de estruturação (AIDA, Storytelling, SEO, etc.)
 - Geração de conteúdo visual com prompts para imagem
+
+---
+
+## 📚 Conheça o projeto Prompt'O'rama — eBook sobre Prompt Design
+
+Explore o eBook **"Prompt'O'rama — Prompt Design Inspirado em Grandes Obras"**, um guia essencial para quem quer levar seus prompts a outro nível. Com capítulos construídos ao vivo com a comunidade, o livro apresenta técnicas aplicadas à criação de conteúdo com IA de forma criativa e estratégica.
+
+👉 [Saiba mais e garanta o seu](https://abstraktagencia.com/livro-landing/)
 
 ---
 
@@ -27,7 +35,7 @@ O prompt é inspirado no livro *"Roube como um Artista"* de Austin Kleon e foi d
 
 ## 🚀 Como Usar
 
-1. **Abra o arquivo ** ``prompt-analise-criativa.md``
+1. **Abra o arquivo `prompt-analise-criativa.md`.**
 2. Copie e cole o conteúdo completo em sua ferramenta de IA generativa favorita (ex: ChatGPT).
 3. Siga as instruções interativas fornecidas pelo prompt.
 4. Responda cada pergunta para personalizar o resultado final.
@@ -68,5 +76,12 @@ Sugestões, melhorias e exemplos reais de uso são sempre bem-vindos! Crie um Pu
 
 ---
 
-Feito com 💡 criatividade e intenção por [Billy Garcia - AbstraktAgencia].
+## 📺 Canais Parceiros no YouTube
+
+- Thiago Pacheco — [Viking Empreendedor](https://www.youtube.com/@VikingEmpreendedor)
+- Billy Garcia — [Quero Ser Billy Garcia](https://www.youtube.com/@queroserbillygarcia)
+
+---
+
+Feito com 💡 criatividade e carinho por [AbstraktAgencia].
 
