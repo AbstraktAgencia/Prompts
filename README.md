@@ -1,4 +1,4 @@
-# Prompt de Análise Criativa — Repositório Modelo
+# Prompt de Análise Criativa 
 
 Este repositório tem como objetivo disponibilizar um **prompt estruturado** e reutilizável para auxiliar profissionais de marketing, criadores de conteúdo e estrategistas na **criação de conteúdos digitais** com base em conceitos criativos, interativos e iterativos.
 
@@ -27,7 +27,7 @@ O prompt é inspirado no livro *"Roube como um Artista"* de Austin Kleon e foi d
 
 ## 🚀 Como Usar
 
-1. **Abra o arquivo **``**.**
+1. **Abra o arquivo **``prompt-analise-criativa.md``
 2. Copie e cole o conteúdo completo em sua ferramenta de IA generativa favorita (ex: ChatGPT).
 3. Siga as instruções interativas fornecidas pelo prompt.
 4. Responda cada pergunta para personalizar o resultado final.
